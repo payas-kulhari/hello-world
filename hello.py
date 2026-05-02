@@ -6,4 +6,6 @@ Author: Payas Kulhari
 Created: May 2026
 """
 
-print("Hello World")
+name= input("What is your name: ")
+
+print("Hello",name,)
